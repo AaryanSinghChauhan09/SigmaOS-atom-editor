@@ -3,7 +3,7 @@ name = "SigmaOS-atom-editor2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "atom-editor2 component"
+description = "Atom text editor compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
